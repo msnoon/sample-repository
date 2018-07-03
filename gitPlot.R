@@ -4,5 +4,5 @@
 
 x <- rnorm(n = 100)
 # Create square of x
-y <- x^2
+y <- 2*x
 plot(x,y, xlab = "Random X", ylab = "Power")
