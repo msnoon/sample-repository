@@ -3,5 +3,6 @@
 # 2018-07-03
 
 x <- rnorm(n = 100)
+# Create square of x
 y <- x^2
 plot(x,y, xlab = "Random X")
