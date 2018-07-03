@@ -5,4 +5,4 @@
 x <- rnorm(n = 100)
 # Create square of x
 y <- x^2
-plot(x,y, xlab = "Random X")
+plot(x,y, xlab = "Random X", ylab = "Power")
